@@ -1,3 +1,3 @@
-const allowOrigins = ["http://localhost:5173"];
+const allowOrigins = ["https://air-bnb-nu-six.vercel.app"];
 
 module.exports = allowOrigins;
