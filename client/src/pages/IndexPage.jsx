@@ -10,12 +10,12 @@ export default function IndexPage() {
         places.map((place) => (
           <Link to={"/dumi/" + place._id} key={place._id}>
             <div className="bg-gray-500 mb-2 rounded-2xl flex">
-              {place.photos?.[0] && (
+              {place.photos && (
                 <div className="relative">
-                  <Image
+                  <img
                     className="rounded-2xl w-full object-cover aspect-square"
-                    src={place.photos?.[0]}
-                    alt=""
+                    src={place.photos}
+                    alt={place.title}
                   />
                   <button className="cursor-pointer absolute top-1 left-1 text-white bg-black rounded-2xl px-2 py-1">
                     <p className="text-gray-200">Guest favorite</p>

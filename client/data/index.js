@@ -11,7 +11,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741012965109.jpg"],
+    photos: "../public/photo1741012965109.jpg",
   },
   {
     _id: "2",
@@ -25,7 +25,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013126745.jpg"],
+    photos: "../public/photo1741013126745.jpg",
   },
   {
     _id: "3",
@@ -39,7 +39,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013282043.jpg"],
+    photos: "../public/photo1741013282043.jpg",
   },
   {
     _id: "4",
@@ -53,7 +53,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013198932.jpg"],
+    photos: "../public/photo1741013198932.jpg",
   },
   {
     _id: "5",
@@ -67,7 +67,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013282043.jpg"],
+    photos: "../public/photo1741013282043.jpg",
   },
   {
     _id: "6",
@@ -81,7 +81,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013406083.jpg"],
+    photos: "../public/photo1741013406083.jpg",
   },
   {
     _id: "7",
@@ -95,7 +95,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\7773a691cf2acc4cf898a8d55033e6cf.jpeg"],
+    photos: "../public/7773a691cf2acc4cf898a8d55033e6cf.jpeg",
   },
   {
     _id: "8",
@@ -109,7 +109,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741013198932.jpg"],
+    photos: "../public/photo1741013198932.jpg",
   },
   {
     _id: "9",
@@ -123,7 +123,7 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\7773a691cf2acc4cf898a8d55033e6cf.jpeg"],
+    photos: "../public/7773a691cf2acc4cf898a8d55033e6cf.jpeg",
   },
   {
     _id: "10",
@@ -137,6 +137,6 @@ export const places = [
     maxGuests: 2,
     owner: "67c31bf32158e7db7d417002",
     perks: ["wifi", "tv", "pets", "parking", "radio"],
-    photos: ["uploads\\photo1741012965109.jpg"],
+    photos: "../public/photo1741012965109.jpg",
   },
 ];
